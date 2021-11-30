@@ -1,2 +1,2 @@
 # demo
-Terraform demo
+Terraform basic demo
